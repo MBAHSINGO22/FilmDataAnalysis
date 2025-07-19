@@ -31,8 +31,7 @@ Analisis mencakup:
 ```
 FilmDataAnalysis/
 ├── film.zip                # Dataset film terkompresi
-├── UAS_235314099.ipynb     # Notebook analisis utama
-└── README.md               # Dokumentasi proyek
+└──  UAS_235314099.ipynb     # Notebook analisis utama
 ```
 
 ---
