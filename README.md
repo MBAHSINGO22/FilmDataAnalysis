@@ -1,4 +1,4 @@
-<h1 align="center">🎬 FilmDataAnalysis</h1>
+<h1 align="center">🎬 Film Data Analysis</h1>
 <p align="center">
   <b>Analisis Data Film Menggunakan Python</b><br>
   <sub>Eksplorasi dataset film untuk wawasan tentang rating, genre, dan popularitas</sub>
