@@ -18,7 +18,7 @@
 
 ## 📖 Deskripsi Proyek
 
-**FilmDataAnalysis** adalah proyek eksplorasi data berbasis Python dan Jupyter Notebook untuk menganalisis dataset film (`film.zip`).  
+**FilmDataAnalysis** adalah project data berbasis Python dan Jupyter Notebook untuk menganalisis dataset film (`film.zip`).  
 Analisis mencakup:
 - Distribusi rating dan genre film
 - Popularitas film dari tahun ke tahun
