@@ -74,9 +74,3 @@ jupyter notebook UAS_235314099.ipynb
 
 **MBAHSINGO22**  
 🔗 [GitHub](https://github.com/MBAHSINGO22)
-
----
-
-## 📄 Lisensi
-
-Proyek ini bebas digunakan untuk pembelajaran, analisis data, dan penelitian.
